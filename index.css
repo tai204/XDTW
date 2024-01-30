@@ -1,0 +1,15 @@
+.sanpham{
+    display: flex;
+}
+.sanpham .anh, .sanpham .info{
+float: left;
+}
+.sanpham .info{
+    padding-left: 20px;
+}
+.map iframe{
+    margin-left: 10%;
+}
+.slide-show iframe{
+    margin-right: 15%;
+}
